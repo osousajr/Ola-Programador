@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula do Curso em vídeo.
 
-Essa çinha alterei diretamente no site. Que impressionante!
+Essa linha alterei diretamente no site. Que impressionante!
